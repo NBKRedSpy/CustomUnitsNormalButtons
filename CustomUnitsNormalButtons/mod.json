@@ -1,0 +1,17 @@
+﻿{
+  "Name": "CustomUnitsNormalButtons",
+  "Version": "1.0.0.0",
+  "Description": "",
+  "Author": "NBK_RedSpy",
+  "Website": "https://github.com/NBKRedSpy/CustomUnitsNormalButtons",
+
+  "Enabled": true,
+
+  "DLL": "CustomUnitsNormalButtons.dll",
+
+  "DependsOn": [ "CustomUnits"],
+
+  "Settings": {
+  }
+
+}
